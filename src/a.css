@@ -1,0 +1,12 @@
+.p{
+    background-color: green;
+}
+.a{
+    background-color: red;
+    color: black;
+}
+button{
+    border-width: 0px;
+    border-radius: 3px;
+    color: white;
+}
